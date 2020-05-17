@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WallpapersReact/static/css/main.567e379c.chunk.css",
+    "main.js": "/WallpapersReact/static/js/main.f8d4d55f.chunk.js",
+    "main.js.map": "/WallpapersReact/static/js/main.f8d4d55f.chunk.js.map",
+    "runtime-main.js": "/WallpapersReact/static/js/runtime-main.d891498a.js",
+    "runtime-main.js.map": "/WallpapersReact/static/js/runtime-main.d891498a.js.map",
+    "static/js/2.a22c3296.chunk.js": "/WallpapersReact/static/js/2.a22c3296.chunk.js",
+    "static/js/2.a22c3296.chunk.js.map": "/WallpapersReact/static/js/2.a22c3296.chunk.js.map",
+    "index.html": "/WallpapersReact/index.html",
+    "precache-manifest.7c519158da13d6ab7969bebeaf7523c5.js": "/WallpapersReact/precache-manifest.7c519158da13d6ab7969bebeaf7523c5.js",
+    "service-worker.js": "/WallpapersReact/service-worker.js",
+    "static/css/main.567e379c.chunk.css.map": "/WallpapersReact/static/css/main.567e379c.chunk.css.map",
+    "static/js/2.a22c3296.chunk.js.LICENSE.txt": "/WallpapersReact/static/js/2.a22c3296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d891498a.js",
+    "static/js/2.a22c3296.chunk.js",
+    "static/css/main.567e379c.chunk.css",
+    "static/js/main.f8d4d55f.chunk.js"
+  ]
+}
